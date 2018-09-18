@@ -18,7 +18,7 @@ public class DemoApplication {
 
     @RequestMapping("hello")
     public String hello(){
-        return "hello world1 oo";
+        return "hello world1 oo 测试是否备份成功";
     }
 }
 
