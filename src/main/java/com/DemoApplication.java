@@ -18,7 +18,7 @@ public class DemoApplication {
 
     @RequestMapping("hello")
     public String hello(){
-        return "hello world1 oo 测试是否备份成功! 回滚后，看是否能回到上一个文件 v 0.0.6 ";
+        return "hello world1 oo 测试是否备份成功! 回滚后，看是否能回到上一个文件 v 0.0.7 ";
     }
 }
 
